@@ -19,7 +19,8 @@
 
 ![Game 1 Screenshot 1](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_225537.png)  
 ![Game 1 Screenshot 2](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230006.png)  
-![Game 1 Screenshot 3](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230226.png)  
+![Game 1 Screenshot 3](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230226.png)
+![Game 1 Screenshot 4](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230713.png)
 
 ---
 
