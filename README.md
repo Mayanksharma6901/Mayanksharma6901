@@ -27,8 +27,10 @@
 ### 🛡️ Game 2 – Survival Adventure  
 *A 3D adventure game featuring AI-driven enemies and interactive environments.*  
 
-![Game 2 Screenshot 1](https://github.com/Mayanksharma6901/Mayanksharma6901/assets/PLACEHOLDER4)  
-![Game 2 Screenshot 2](https://github.com/Mayanksharma6901/Mayanksharma6901/assets/PLACEHOLDER5)  
+![Game 2 Screenshot 1](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241115_233427.png)  
+![Game 2 Screenshot 2](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241115_233057.png)  
+![Game 2 Screenshot 3](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241006_230713.png)
+![Game 2 Screenshot 4](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241006_230759.png)
 
 ---
 
