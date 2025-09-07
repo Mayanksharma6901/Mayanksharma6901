@@ -1,23 +1,15 @@
 # 👋 Hi, I'm Mayank Sharma  
 
 🎓 4th-year B.Tech CSE student | 💻 Passionate about Problem-Solving & Development  
-🚀 Exploring Data Structures, Algorithms, and Game Development  
-
-I love creating **interactive 3D games** and solving challenging problems with **C++**.  
-Currently, I’m exploring **Unreal Engine**, improving my **DSA skills**, and building projects to grow as a developer.  
+🚀 Exploring DSA in C++ | Building projects to learn and grow  
 
 ---
 
 ## 🧑‍💻 Skills
 
-**Programming Languages:**  
-C++ ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white), Python (Beginner) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-
-**Game Development & Tools:**  
-Unreal Engine (C++ & Blueprints), AI, 3D Environments, Level Sequencer  
-
-**Concepts & Core Knowledge:**  
-Data Structures & Algorithms, OOP, Game Mechanics, Problem Solving  
+**Programming Languages:** C++, Python (beginner)  
+**Game Development:** Unreal Engine (C++ & Blueprints), AI, 3D Environments  
+**Concepts:** Data Structures & Algorithms, OOP, Game Mechanics  
 
 ---
 
@@ -26,20 +18,15 @@ Data Structures & Algorithms, OOP, Game Mechanics, Problem Solving
 ### 🎯 Game 1 – FPS Target Shooting  
 *A 3D first-person shooter built in Unreal Engine (C++ + Blueprints).*  
 
-**Key Features:**  
-- AI target system with scoring mechanics 🎯  
-- Player movement, shooting, and aiming implemented with Blueprints  
-- Dynamic environment with interactive targets  
-- Scoring and UI system to track player performance  
-
-**Technologies Used:**  
-Unreal Engine, C++, Blueprints  
+- Implemented AI target system with scoring mechanics  
+- Integrated Blueprints for character controls and UI  
+- Designed interactive 3D environment  
 
 <div align="center">
-  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_225537.png" width="250"/>
-  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230006.png" width="250"/>
-  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230226.png" width="250"/>
-  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230713.png" width="250"/>
+  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_225537.png" width="200"/>
+  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230006.png" width="200"/>
+  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230226.png" width="200"/>
+  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230713.png" width="200"/>
 </div>
 
 ---
@@ -47,29 +34,16 @@ Unreal Engine, C++, Blueprints
 ### 🛡️ Game 2 – Survival Adventure  
 *A 3D adventure game featuring AI-driven enemies and interactive environments.*  
 
-**Key Features:**  
-- AI-driven enemy behaviors and pathfinding 🤖  
-- Collectibles and interactive environment objects  
-- Blueprint-driven gameplay mechanics and UI  
-- Health, scoring, and survival systems  
-
-**Technologies Used:**  
-Unreal Engine, C++, Blueprints, AI Systems  
+- Built AI-driven enemy behaviors and pathfinding  
+- Developed interactive environments and collectible items  
+- Integrated Unreal Engine Blueprints for game mechanics  
 
 <div align="center">
-  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241115_233427.png" width="250"/>
-  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241115_233057.png" width="250"/>
-  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241006_230713.png" width="250"/>
-  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241006_230759.png" width="250"/>
+  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241115_233427.png" width="200"/>
+  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241115_233057.png" width="200"/>
+  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241006_230713.png" width="200"/>
+  <img src="https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20241006_230759.png" width="200"/>
 </div>
-
----
-
-## 🚀 What I’m Learning
-
-- Advanced **DSA** techniques and competitive programming  
-- Unreal Engine 5 features: **Niagara, Level Sequencer, Animation Systems**  
-- Improving **C++ coding skills** for professional game development  
 
 ---
 
@@ -81,4 +55,4 @@ Unreal Engine, C++, Blueprints, AI Systems
 
 ---
 
-⭐ *Always eager to learn, build, and explore new opportunities!*  
+⭐ *Always eager to learn and explore new opportunities!*  
