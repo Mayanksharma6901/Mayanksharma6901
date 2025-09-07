@@ -1,62 +1,33 @@
 # 👋 Hi, I'm Mayank Sharma  
 
-🎓 4th Year B.Tech CSE Student | 💻 Aspiring Software Engineer | 🔥 Passionate about Problem-Solving & Development  
-
-I love learning new technologies and applying **DSA, C++, and Python** to real-world projects.  
-Currently exploring opportunities through **placements** where I can learn, grow, and contribute.  
+🎓 4th-year B.Tech CSE student | 💻 Passionate about Problem-Solving & Development  
+🚀 Exploring DSA in C++ | Building projects to learn and grow  
 
 ---
 
-## 🚀 Skills  
-- **Languages**: C++, Python, Basics of Java  
-- **Core CS**: Data Structures & Algorithms, OOP, Problem Solving  
-- **Tools/Platforms**: Git, GitHub, Unreal Engine (C++ + Blueprints)  
-- **Other Interests**: Exploring Web Dev, Open Source  
+## 🧑‍💻 Skills
+- **Languages:** C++, Python (beginner)  
+- **Core:** Data Structures & Algorithms  
+- **Other:** Unreal Engine (C++ & Blueprints for projects)  
 
 ---
 
 ## 🎮 Projects  
 
-### 1️⃣ First-Person Target Shooting Game (Unreal Engine, C++)  
-![Game Screenshot](assets/shooting1.png)  
+### 🎯 Game 1 – FPS Target Shooting  
+*A 3D first-person shooter built in Unreal Engine (C++ + Blueprints).*  
 
-**Overview:**  
-A 3D first-person shooting game where the player scores points by hitting moving targets within a time limit.  
-
-**Features:**  
-- FPS controls with shooting mechanics  
-- Scoring & timer system  
-- Hybrid development using **C++ and Blueprints**  
-- Implemented collision detection and event-driven logic  
-
-**Tech Stack:** Unreal Engine 5, C++  
-
-**Learnings:** Improved understanding of OOP, game loops, and debugging in real-time applications.  
+![Game 1 Screenshot 1](https://github.com/Mayanksharma6901/Mayanksharma6901/assets/PLACEHOLDER1)  
+![Game 1 Screenshot 2](https://github.com/Mayanksharma6901/Mayanksharma6901/assets/PLACEHOLDER2)  
+![Game 1 Screenshot 3](https://github.com/Mayanksharma6901/Mayanksharma6901/assets/PLACEHOLDER3)  
 
 ---
 
-### 2️⃣ Survival Adventure Game (Unreal Engine, C++)  
-![Survival Screenshot](assets/survival1.png)  
-![Survival Screenshot](assets/survival2.png)  
+### 🛡️ Game 2 – Survival Adventure  
+*A 3D adventure game featuring AI-driven enemies and interactive environments.*  
 
-**Overview:**  
-A 3D third-person survival game where the player fights AI enemies and explores an open-world environment.  
-
-**Features:**  
-- Third-person movement and combat system  
-- AI enemies with patrol, chase, and attack behavior  
-- Health management & resource interaction  
-- Open-world terrain with natural environment  
-
-**Tech Stack:** Unreal Engine 5, C++  
-
-**Learnings:** Gained experience with **AI behavior trees**, OOP inheritance for enemies, and performance optimization.  
-
----
-
-## 📊 GitHub Stats  
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayanksharma6901&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayanksharma6901&layout=compact&theme=tokyonight)  
+![Game 2 Screenshot 1](https://github.com/Mayanksharma6901/Mayanksharma6901/assets/PLACEHOLDER4)  
+![Game 2 Screenshot 2](https://github.com/Mayanksharma6901/Mayanksharma6901/assets/PLACEHOLDER5)  
 
 ---
 
@@ -66,5 +37,4 @@ A 3D third-person survival game where the player fights AI enemies and explores 
 - 🖥️ GitHub: [github.com/Mayanksharma6901](https://github.com/Mayanksharma6901)  
 
 ---
-
-⭐️ *Always eager to learn, build, and contribute!*  
+⭐ *Always eager to learn and explore new opportunities!*  
