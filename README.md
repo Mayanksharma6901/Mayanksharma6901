@@ -1,79 +1,70 @@
-<p align="center">
-  <h1>Hi, I'm Mayank Sharma 👋</h1>
-  <p>Final-year B.Tech CSE Student | Strong in C++ & DSA | Building a versatile software foundation</p>
-</p>
+# 👋 Hi, I'm Mayank Sharma  
+
+🎓 4th Year B.Tech CSE Student | 💻 Aspiring Software Engineer | 🔥 Passionate about Problem-Solving & Development  
+
+I love learning new technologies and applying **DSA, C++, and Python** to real-world projects.  
+Currently exploring opportunities through **placements** where I can learn, grow, and contribute.  
 
 ---
 
-##  About Me
-- 🎓 4th Year B.Tech in Computer Science & Engineering  
--  Proficient in C++, with foundational knowledge of Python  
--  Developed two 3D game projects using Unreal Engine (C++)—showcasing OOP, logic, and optimization  
--  Actively expanding skills through new software projects and placements opportunities
+## 🚀 Skills  
+- **Languages**: C++, Python, Basics of Java  
+- **Core CS**: Data Structures & Algorithms, OOP, Problem Solving  
+- **Tools/Platforms**: Git, GitHub, Unreal Engine (C++ + Blueprints)  
+- **Other Interests**: Exploring Web Dev, Open Source  
 
 ---
 
-##  Skills
-| Category              | Technologies & Tools                |
-|-----------------------|--------------------------------------|
-| **Languages**         | C++, Python                          |
-| **Core Concepts**     | Data Structures & Algorithms, OOP    |
-| **Tools & Platforms** | Git, GitHub, Unreal Engine           |
-| **Currently Exploring** | Web Development, Backend Fundamentals |
+## 🎮 Projects  
+
+### 1️⃣ First-Person Target Shooting Game (Unreal Engine, C++)  
+![Game Screenshot](assets/shooting1.png)  
+
+**Overview:**  
+A 3D first-person shooting game where the player scores points by hitting moving targets within a time limit.  
+
+**Features:**  
+- FPS controls with shooting mechanics  
+- Scoring & timer system  
+- Hybrid development using **C++ and Blueprints**  
+- Implemented collision detection and event-driven logic  
+
+**Tech Stack:** Unreal Engine 5, C++  
+
+**Learnings:** Improved understanding of OOP, game loops, and debugging in real-time applications.  
 
 ---
 
-##  Projects
+### 2️⃣ Survival Adventure Game (Unreal Engine, C++)  
+![Survival Screenshot](assets/survival1.png)  
+![Survival Screenshot](assets/survival2.png)  
 
-### 3D Platformer Game (Unreal Engine, C++)
-- Engineered a 3D environment with player controls, physics, and collision detection.
-- Highlighted OOP architecture and optimized real-time game logic.
+**Overview:**  
+A 3D third-person survival game where the player fights AI enemies and explores an open-world environment.  
 
-### 3D Puzzle Game (Unreal Engine, C++)
-- Constructed logic-driven puzzles with interactive objects.
-- Focused on modular system design and memory-efficient resource management.
+**Features:**  
+- Third-person movement and combat system  
+- AI enemies with patrol, chase, and attack behavior  
+- Health management & resource interaction  
+- Open-world terrain with natural environment  
 
----
+**Tech Stack:** Unreal Engine 5, C++  
 
-##  Upcoming Projects (In Progress)
-*(Goal: Showcase breadth beyond game dev)*  
-- **Library Management System (C++)** – CLI app using file-handling and OOP principles.  
-- **To-Do CLI App (Python)** – Task manager with CRUD operations and intuitive CLI interface.
-
----
-
-##  Data Structures & Algorithms Practice
-- Solving 300+ problems across LeetCode, GeeksforGeeks, and CodeStudio.  
-- Practiced with arrays, strings, linked lists, trees, graphs, and dynamic programming.
+**Learnings:** Gained experience with **AI behavior trees**, OOP inheritance for enemies, and performance optimization.  
 
 ---
 
-##  Contact Me
--  **LinkedIn**: [linkedin.com/in/mayank-sharma-069169255](https://www.linkedin.com/in/mayank-sharma-069169255)  
--  **GitHub**: [github.com/Mayanksharma6901](https://github.com/Mayanksharma6901)  
--  **Email**: mayanksharma6901@gmail.com
+## 📊 GitHub Stats  
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayanksharma6901&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayanksharma6901&layout=compact&theme=tokyonight)  
 
 ---
 
-##  How to Use This
-1. Make this README your repository’s `README.md`.  
-2. Create and push your project repos with detailed individual READMEs.  
-3. Feel free to add badges (e.g. GitHub stats, languages, etc.) for aesthetic polish.
+## 📫 Connect with Me  
+- 📧 Email: **mayanksharma6901@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/mayank-sharma-069169255](https://www.linkedin.com/in/mayank-sharma-069169255)  
+- 🖥️ GitHub: [github.com/Mayanksharma6901](https://github.com/Mayanksharma6901)  
 
 ---
 
-###  Optional Extras (to elevate your portfolio)
-- **GitHub activity graph** – Shows consistency.  
-- **Pinned repos** – Highlight your best projects upfront.  
-- **Tech badges** – Visually display your stack (e.g., shields.io).  
-- **Minimalist styling** – Stick to clean formatting—no flashy graphics.
-
----
-
-###  Next Steps for You
-1. Build and push **at least one non-game software project** (Library Manager or To-Do CLI).  
-2. Make your Unreal Engine game projects public (even if unfinished).  
-3. Populate README sections with project summaries, screenshots, and key learnings.
-
-Let me know if you'd like additional support—like a step-by-step guide for one of the projects or help with visual enhancements for the README!
-::contentReference[oaicite:1]{index=1}
+⭐️ *Always eager to learn, build, and contribute!*  
