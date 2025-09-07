@@ -17,9 +17,9 @@
 ### 🎯 Game 1 – FPS Target Shooting  
 *A 3D first-person shooter built in Unreal Engine (C++ + Blueprints).*  
 
-![Game 1 Screenshot 1](https://github.com/Mayanksharma6901/Mayanksharma6901/assets/PLACEHOLDER1)  
-![Game 1 Screenshot 2](https://github.com/Mayanksharma6901/Mayanksharma6901/assets/PLACEHOLDER2)  
-![Game 1 Screenshot 3](https://github.com/Mayanksharma6901/Mayanksharma6901/assets/PLACEHOLDER3)  
+![Game 1 Screenshot 1](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_225537.png)  
+![Game 1 Screenshot 2](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230006.png)  
+![Game 1 Screenshot 3](https://github.com/Mayanksharma6901/Mayanksharma6901/blob/main/assets/Screenshot_20240725_230226.png)  
 
 ---
 
